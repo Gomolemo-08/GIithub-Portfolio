@@ -2,7 +2,7 @@
 **Diploma in Information and Communication Technology (ICT)**  
 **Cape Peninsula University of Technology (CPUT)**  
 **Student: Gomolemo Mogwasi**  
-**Student Number: 230045189]**
+**Student Number: 230045189**
 
 ---
 
