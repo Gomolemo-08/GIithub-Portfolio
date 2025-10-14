@@ -24,4 +24,4 @@ Each section includes:
 
 ## 🌐 Live Website
 View the published portfolio here:  
-👉 **[https://yourusername.github.io](https://yourusername.github.io)**
+👉 **https://gomolemo-08.github.io/GIithub-Portfolio/**
